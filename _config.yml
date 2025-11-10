@@ -1,0 +1,5 @@
+title: Hao Ying
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
